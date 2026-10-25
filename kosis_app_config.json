@@ -1,0 +1,16 @@
+{
+  "api_key": "__KOSIS_API_KEY_REDACTED__",
+  "ecos_api_key": "",
+  "rone_api_key": "__API_KEY_REDACTED__",
+  "output_dir": "C:\\AI 3 제출\\output",
+  "end_period": "2026-10",
+  "worker_count": 5,
+  "region_file": "C:\\Users\\jktja\\Documents\\AI 3\\전국 법정동 지역.xls",
+  "apply_region_to_all": true,
+  "housing_sido_report": false,
+  "officetel_sido_report": false,
+  "auto_pipeline": true,
+  "sido": "전남광주통합특별시",
+  "sigungu": "광산구",
+  "region_code": "12330"
+}
